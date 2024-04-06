@@ -1,0 +1,12 @@
+.body{
+  background-color: "#fff8d4";
+  height:"100vh";
+  justify-content:"center";
+  display:"flex";
+  align-items:"center";
+}
+
+.card{
+  width: "35rem";
+  padding: "20px";
+}
